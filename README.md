@@ -68,7 +68,7 @@ install.packages(c(
   "AlgDesign",
   "dtw"
 ))
-
+```r
 ## How to run the scripts
 
 Each script is designed to be run independently.
