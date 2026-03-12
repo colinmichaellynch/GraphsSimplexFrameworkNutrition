@@ -68,7 +68,7 @@ install.packages(c(
   "AlgDesign",
   "dtw"
 ))
-```r
+```
 ## How to run the scripts
 
 Each script is designed to be run independently.
@@ -82,7 +82,7 @@ For example:
 
 ```r id="run_example_01"
 source("Figure1ABCD.R")
-
+```
 Most scripts will display the figure directly in the plotting window. Some scripts also print numerical summaries or diagnostic output to the console.
 
 ## Notes on reproducibility
