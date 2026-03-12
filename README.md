@@ -40,7 +40,6 @@ Scripts are named according to the figure and panel(s) they produce. For example
 
 In general, the naming convention is:
 
-```text
 Figure[number][panel letters].R
 
 So a script named `Figure1ABCD.R` produces panels A–D of Figure 1.
