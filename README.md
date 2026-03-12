@@ -35,8 +35,8 @@ This repository contains **9 R scripts**, each of which generates one or more fi
 Scripts are named according to the figure and panel(s) they produce. For example:
 
 - `Figure1ABCD.R`
-- `Figure2AB.R`
-- `Figure3C.R`
+- `Figure2A.R`
+- `Figure3.R`
 
 In general, the naming convention is:
 
@@ -106,7 +106,8 @@ This repository is intended to make the visual and computational components of t
 
 ## Citation
 
-If you use these scripts or build on this work, please cite the associated paper.
+If you use these scripts or build on this work, please use this citation:
+Lynch, C., Baudier, K., Montgomery, D., & Barrett, M. (2025). Minimizing inferential bias in the theory and design of nutritional experiments through the application of the equilateral mixture triangle. bioRxiv, 2025-12.
 
 ## Contact
 
